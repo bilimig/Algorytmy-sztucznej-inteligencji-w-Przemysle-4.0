@@ -1,1 +1,1 @@
-# Algorytmy-sztucznej-inteligencji-w-Przemy-le-4.0
+# Algorytmy-sztucznej-inteligencji-w-Przemysle-4.0
